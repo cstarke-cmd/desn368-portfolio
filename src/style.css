@@ -1,0 +1,72 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+}
+
+h2 {
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffff2e;
+}
+
+h3 {
+  color: #ffff2e;
+}
+
+p {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: white;
+}
+
+a {
+  color: #ffff2e;
+}
+
+ol {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-weight: bold;
+}
+
+ul {
+  font-family: "Share Tech", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+li {
+  color: white;
+}
+
+.done {
+  font-family: "Share Tech", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-color: #ffff2e;
+}
+
+.todo {
+  color: black;
+  background-color: #ffff2e;
+  font-family: "Share Tech", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.todo a {
+  color: black;
+}
+
+img {
+  width: 100%;
+}
