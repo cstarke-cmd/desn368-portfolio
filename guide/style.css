@@ -19,7 +19,7 @@ header {
   height: 624px;*/
   width: 100%;
   height: auto;
-  align: center;
+  align-self: center;
   padding-left: 22px;
   padding-right: 117px;
   display: block;
@@ -27,7 +27,7 @@ header {
 body {
   font-family: "Maven Pro", sans-serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  font-weight: ;
   font-style: regular;
   background-color: var(--test);
 }
